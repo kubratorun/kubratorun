@@ -2,7 +2,7 @@
 <h1 align="center"> Hi 👋 , I'm Kübra Torun </h1>
 <h3 align="center"> A passionate Full-Stack developer with a solid Front-End background.</h2>
 
-- 🔭  I’m currently focusing on React.js, React Native, Next.js and Node.js Technologies.
+- 🔭  I’m currently working at Sambla Group.
 
 - 👀 I always aim for the most functional, applicable, and readable code.
 
